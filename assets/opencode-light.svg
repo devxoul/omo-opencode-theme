@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="492" viewBox="0 0 760 492">
+<rect x="1" y="1" width="758" height="490" rx="12" fill="#ffffff" stroke="#d4d4d4"/>
+<text x="28" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#1a1a1a">opencode-light</text>
+<text x="732" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end" fill="#8a8a8a">omo-opencode-theme</text>
+<rect x="28" y="68" width="60.400000000000006" height="40" rx="6" fill="#3b7dd8" stroke="#d4d4d4"/>
+<text x="28" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">primary</text>
+<text x="28" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#3b7dd8</text>
+<rect x="98.4" y="68" width="60.400000000000006" height="40" rx="6" fill="#7b5bb6" stroke="#d4d4d4"/>
+<text x="98.4" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">secondary</text>
+<text x="98.4" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#7b5bb6</text>
+<rect x="168.8" y="68" width="60.400000000000006" height="40" rx="6" fill="#d68c27" stroke="#d4d4d4"/>
+<text x="168.8" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">accent</text>
+<text x="168.8" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#d68c27</text>
+<rect x="239.20000000000002" y="68" width="60.400000000000006" height="40" rx="6" fill="#d1383d" stroke="#d4d4d4"/>
+<text x="239.20000000000002" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">red</text>
+<text x="239.20000000000002" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#d1383d</text>
+<rect x="309.6" y="68" width="60.400000000000006" height="40" rx="6" fill="#d68c27" stroke="#d4d4d4"/>
+<text x="309.6" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">orange</text>
+<text x="309.6" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#d68c27</text>
+<rect x="380" y="68" width="60.400000000000006" height="40" rx="6" fill="#b0851f" stroke="#d4d4d4"/>
+<text x="380" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">yellow</text>
+<text x="380" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#b0851f</text>
+<rect x="450.40000000000003" y="68" width="60.400000000000006" height="40" rx="6" fill="#3d9a57" stroke="#d4d4d4"/>
+<text x="450.40000000000003" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">green</text>
+<text x="450.40000000000003" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#3d9a57</text>
+<rect x="520.8000000000001" y="68" width="60.400000000000006" height="40" rx="6" fill="#318795" stroke="#d4d4d4"/>
+<text x="520.8000000000001" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">cyan</text>
+<text x="520.8000000000001" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#318795</text>
+<rect x="591.2" y="68" width="60.400000000000006" height="40" rx="6" fill="#1a1a1a" stroke="#d4d4d4"/>
+<text x="591.2" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">text</text>
+<text x="591.2" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#1a1a1a</text>
+<rect x="661.6" y="68" width="60.400000000000006" height="40" rx="6" fill="#8a8a8a" stroke="#d4d4d4"/>
+<text x="661.6" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1a1a1a">muted</text>
+<text x="661.6" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8a8a8a">#8a8a8a</text>
+<rect x="28" y="168" width="704" height="32" rx="6" fill="#f5f5f5"/>
+<text x="40" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#1a1a1a" >&gt; make the theme match OpenCode</tspan></text>
+<text x="40" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#d68c27" font-weight="700"># Markdown</tspan></text>
+<text x="40" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#1a1a1a" >Text with </tspan><tspan fill="#d68c27" font-weight="700">bold</tspan><tspan fill="#1a1a1a" >, </tspan><tspan fill="#b0851f" font-style="italic">italic</tspan><tspan fill="#1a1a1a" >, </tspan><tspan fill="#3d9a57" >`code`</tspan><tspan fill="#1a1a1a" > and a </tspan><tspan fill="#3b7dd8" text-decoration="underline">link</tspan><tspan fill="#8a8a8a" > (https://opencode.ai)</tspan></text>
+<text x="40" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#3b7dd8" >- </tspan><tspan fill="#1a1a1a" >list item</tspan></text>
+<rect x="40" y="277" width="3" height="20" fill="#b8b8b8"/>
+<text x="52" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#b0851f" font-style="italic">a quoted line</tspan></text>
+<rect x="28" y="306" width="704" height="62" rx="6" fill="#fafafa" stroke="#b8b8b8"/>
+<text x="40" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#d68c27" >const </tspan><tspan fill="#3b7dd8" >greet</tspan><tspan fill="#318795" > = </tspan><tspan fill="#1a1a1a" >(</tspan><tspan fill="#d1383d" >name</tspan><tspan fill="#1a1a1a" >: </tspan><tspan fill="#b0851f" >string</tspan><tspan fill="#1a1a1a" >) </tspan><tspan fill="#318795" >=&gt; </tspan><tspan fill="#3d9a57" >"hi "</tspan><tspan fill="#318795" > + </tspan><tspan fill="#d1383d" >name</tspan><tspan fill="#318795" > + </tspan><tspan fill="#d68c27" >42</tspan></text>
+<text x="40" y="348" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#8a8a8a" font-style="italic">// greets someone</tspan></text>
+<text x="40" y="386" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#1e725c" >+ added line</tspan></text>
+<text x="40" y="410" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#c53b53" >- removed line</tspan></text>
+<text x="40" y="434" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#7086b5" >  context line</tspan></text>
+<text x="40" y="464" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve"><tspan fill="#3d9a57" >✓ success  </tspan><tspan fill="#d68c27" >⚠ warning  </tspan><tspan fill="#d1383d" >✗ error  </tspan><tspan fill="#8a8a8a" font-style="italic">thinking…</tspan></text>
+</svg>
