@@ -1,0 +1,28 @@
+{
+  "name": "omo-opencode-theme",
+  "version": "0.1.0",
+  "description": "OpenCode's default dark and light themes for omo / senpi / pi",
+  "keywords": [
+    "pi-package",
+    "pi-theme",
+    "omo",
+    "senpi",
+    "opencode",
+    "theme"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devxoul/omo-opencode-theme.git"
+  },
+  "files": [
+    "themes",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "themes": [
+      "./themes"
+    ]
+  }
+}
